@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openapiautotest.iml" filepath="$PROJECT_DIR$/openapiautotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapiautotestweb/openapiautotestweb.iml" filepath="$PROJECT_DIR$/openapiautotestweb/openapiautotestweb.iml" />
+    </modules>
+  </component>
+</project>
